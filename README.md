@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 23-10-2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -164,7 +164,8 @@ Ayyappan.html:
 ![alt text](image-2.png)
 
 church.html:
-![alt text](image-3.png)
+<img width="1919" height="1142" alt="image" src="https://github.com/user-attachments/assets/083b3d66-f019-4dc8-a94e-e9c481f8a702" />
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
