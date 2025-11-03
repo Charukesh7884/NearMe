@@ -58,6 +58,10 @@ Execute the programs and publish them.
     <area shape="circle" coords="1090,480,40" href="pvr.html" alt="VR Chennai">
     <area shape="rect" coords="1010,350,1120,400" href="Ayyappan.html" alt="GRT Jewellers Thirumangalam">
     <area shape="rect" coords="450,500,550,560" href="church.html" alt="SKV Mahal">
+<<<<<<< HEAD
+=======
+    <area shape="rect" coords="450,500,550,560" href="grt.html" alt="GRT jewellers">
+>>>>>>> 6e0806f (success)
   </map>
 </body>
 </html>
@@ -147,7 +151,27 @@ With its historical heritage and calm surroundings, Lourdes Shrine Church remain
 
 </body>
 </html>
+```
 
+### grt.html:
+```html
+<!DOCTYPE html>
+<html>
+<head><title>GRT Jewellers </title></head>
+<body>
+    <style>
+    body {
+      background-color: #c3911e;
+      font-style: italic;        
+      font-size: 20px;
+    }
+  </style>
+<h1 align="center">GRT Jewellers Thirumangalam</h1>
+<img src="grt.avif" alt="GRT Jewellers" style="width:100%; max-width:600px; display:block; margin:auto;">
+<p>GRT Jewellers in Perambur, Chennai, is a trusted jewelry store offering a wide selection of gold, diamond, and precious stone ornaments. Known for quality craftsmanship and authenticity, the store attracts both local and visiting customers. The showroom is well-organized, with attentive staff assisting clients in choosing the right designs. Customers appreciate the modern display and secure buying environment. GRT Jewellers frequently introduces trendy collections alongside traditional designs. Special offers and financing options make it convenient for buyers. The store also provides after-sales services such as maintenance and cleaning. GRT Jewellers remains a popular destination for premium and reliable jewelry shopping</p>
+<a href="index.html">Back to Map</a>
+</body>
+</html>
 ```
 
 ## OUTPUT
@@ -165,5 +189,7 @@ church.html:
 <img width="1919" height="1142" alt="image" src="https://github.com/user-attachments/assets/083b3d66-f019-4dc8-a94e-e9c481f8a702" />
 
 
+grt.html:
+![alt text](image-4.png)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
