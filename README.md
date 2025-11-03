@@ -25,8 +25,8 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-```html
-index.html:
+### index.html:
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -61,9 +61,9 @@ index.html:
   </map>
 </body>
 </html>
-
-pvr.html:
-
+```
+### pvr.html:
+```
 <!DOCTYPE html>
 <html>
 <head><title>SPECTRUM MALL PERAMBUR</title></head>
@@ -110,9 +110,10 @@ The temple becomes especially vibrant during the Mandala Pooja and Makara Vilakk
 <a href="index.html">Back to Map</a>
 </body>
 </html>
+```
 
-church.html:
-
+#### church.html:
+```
 <!DOCTYPE html>
 <html>
 <head><title>Lourdes Shrine Church</title></head>
