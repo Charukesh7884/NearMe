@@ -55,9 +55,10 @@ Execute the programs and publish them.
 
   <img src="perambur.png" usemap="#places" alt="Map of Mogappair East">
   <map name="places">
-    <area shape="circle" coords="1090,480,40" href="pvr.html" alt="VR Chennai">
-    <area shape="rect" coords="1010,350,1120,400" href="Ayyappan.html" alt="GRT Jewellers Thirumangalam">
-    <area shape="rect" coords="450,500,550,560" href="church.html" alt="SKV Mahal">
+    <area shape="circle" coords="1090,480,40" href="pvr.html" alt="PVR Cinemas Perambur">
+    <area shape="rect" coords="1010,350,1120,400" href="Ayyappan.html" alt="Ayyappan Temple">
+    <area shape="rect" coords="450,500,550,560" href="church.html" alt="Lourdes Shrine Church">
+    <area shape="rect" coords="450,500,550,560" href="grt.html" alt="GRT Jewellers">
   </map>
 </body>
 </html>
