@@ -58,10 +58,6 @@ Execute the programs and publish them.
     <area shape="circle" coords="1090,480,40" href="pvr.html" alt="VR Chennai">
     <area shape="rect" coords="1010,350,1120,400" href="Ayyappan.html" alt="GRT Jewellers Thirumangalam">
     <area shape="rect" coords="450,500,550,560" href="church.html" alt="SKV Mahal">
-<<<<<<< HEAD
-=======
-    <area shape="rect" coords="450,500,550,560" href="grt.html" alt="GRT jewellers">
->>>>>>> 6e0806f (success)
   </map>
 </body>
 </html>
