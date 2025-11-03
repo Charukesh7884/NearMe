@@ -27,7 +27,6 @@ Execute the programs and publish them.
 ## CODE
 ```html
 index.html:
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -56,12 +55,9 @@ index.html:
 
   <img src="perambur.png" usemap="#places" alt="Map of Mogappair East">
   <map name="places">
-    <area shape="circle" coords="1090,480,40" href="vr.html" alt="VR Chennai">
-    <area shape="rect" coords="1010,350,1120,400" href="grt.html" alt="GRT Jewellers Thirumangalam">
-    <area shape="rect" coords="450,500,550,560" href="skv.html" alt="SKV Mahal">
-    <area shape="rect" coords="620,480,740,540" href="fireball.html" alt="Fireball Fitness Club">
-    <area shape="rect" coords="900,260,1030,320" href="mmm.html" alt="Madras Medical Mission Hospital">
-    <area shape="circle" coords="400,220,40" href="copper.html" alt="Copper Kitchen Mogappair">
+    <area shape="circle" coords="1090,480,40" href="pvr.html" alt="VR Chennai">
+    <area shape="rect" coords="1010,350,1120,400" href="Ayyappan.html" alt="GRT Jewellers Thirumangalam">
+    <area shape="rect" coords="450,500,550,560" href="church.html" alt="SKV Mahal">
   </map>
 </body>
 </html>
