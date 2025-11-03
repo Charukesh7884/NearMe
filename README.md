@@ -88,9 +88,10 @@ Execute the programs and publish them.
 <a href="index.html">Back to Map</a>
 </body>
 </html>
+```
 
-Ayyappan.html:
-
+### Ayyappan.html:
+```
 <!DOCTYPE html>
 <html>
 <head><title>Ayyappan Temple</title></head>
